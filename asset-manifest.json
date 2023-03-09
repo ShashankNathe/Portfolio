@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.4816a5c2.css",
-    "main.js": "/Portfolio/static/js/main.eb032f30.js",
+    "main.js": "/Portfolio/static/js/main.1e4d2385.js",
     "static/media/HeadFirst.webp": "/Portfolio/static/media/HeadFirst.60e3f06f6d2a4c12cd2d.webp",
     "static/media/Codevision.webp": "/Portfolio/static/media/Codevision.f0b78ba3cf9ad1d9a102.webp",
     "static/media/Sunkart.webp": "/Portfolio/static/media/Sunkart.1f7a4da77329537fd501.webp",
@@ -11,13 +11,13 @@
     "static/media/Ivision.webp": "/Portfolio/static/media/Ivision.deab67643f1a0e0b973b.webp",
     "static/media/Delivery.webp": "/Portfolio/static/media/Delivery.1bf29d87d5291d7f9689.webp",
     "static/media/Dashboard.webp": "/Portfolio/static/media/Dashboard.1722f31ea7c4bb0ee4ef.webp",
-    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.ccb02781e2a8beb88a1f.pdf",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.80d63645ec9cd6557fe8.pdf",
     "index.html": "/Portfolio/index.html",
     "main.4816a5c2.css.map": "/Portfolio/static/css/main.4816a5c2.css.map",
-    "main.eb032f30.js.map": "/Portfolio/static/js/main.eb032f30.js.map"
+    "main.1e4d2385.js.map": "/Portfolio/static/js/main.1e4d2385.js.map"
   },
   "entrypoints": [
     "static/css/main.4816a5c2.css",
-    "static/js/main.eb032f30.js"
+    "static/js/main.1e4d2385.js"
   ]
 }
