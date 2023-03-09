@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.cacc2e0f.css",
-    "main.js": "/Portfolio/static/js/main.0e0a536e.js",
-    "static/media/HeadFirst.png": "/Portfolio/static/media/HeadFirst.7c010d5acb68c44545a8.png",
-    "static/media/Sunkart.png": "/Portfolio/static/media/Sunkart.d54ee5ceb846704da8b1.png",
-    "static/media/Delivery.png": "/Portfolio/static/media/Delivery.dfb7607a2a880265b695.png",
-    "static/media/Pricing.png": "/Portfolio/static/media/Pricing.1c8eee18c30fbfe338d1.png",
-    "static/media/Help.png": "/Portfolio/static/media/Help.13e16a8d9df7c38a143a.png",
-    "static/media/Dashboard (2).png": "/Portfolio/static/media/Dashboard (2).4db2a837e99a2274c84e.png",
-    "static/media/Shashank Nathe Resume.pdf": "/Portfolio/static/media/Shashank Nathe Resume.05691f63c8db16af4d0e.pdf",
-    "static/media/js.png": "/Portfolio/static/media/js.166865dacb77d214f485.png",
-    "static/media/python.png": "/Portfolio/static/media/python.f1a07429fcf04073a41e.png",
+    "main.css": "/Portfolio/static/css/main.35212ac3.css",
+    "main.js": "/Portfolio/static/js/main.88603178.js",
+    "static/media/HeadFirst.webp": "/Portfolio/static/media/HeadFirst.60e3f06f6d2a4c12cd2d.webp",
+    "static/media/Codevision.webp": "/Portfolio/static/media/Codevision.f0b78ba3cf9ad1d9a102.webp",
+    "static/media/Sunkart.webp": "/Portfolio/static/media/Sunkart.1f7a4da77329537fd501.webp",
+    "static/media/Ezio.webp": "/Portfolio/static/media/Ezio.fba088a3eb235005d408.webp",
+    "static/media/Pricing.webp": "/Portfolio/static/media/Pricing.54e66a28497be7fc9dce.webp",
+    "static/media/Help.webp": "/Portfolio/static/media/Help.399045c7fe357c2a40fe.webp",
+    "static/media/Ivision.webp": "/Portfolio/static/media/Ivision.deab67643f1a0e0b973b.webp",
+    "static/media/Delivery.webp": "/Portfolio/static/media/Delivery.1bf29d87d5291d7f9689.webp",
+    "static/media/Dashboard.webp": "/Portfolio/static/media/Dashboard.1722f31ea7c4bb0ee4ef.webp",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.ccb02781e2a8beb88a1f.pdf",
     "index.html": "/Portfolio/index.html",
-    "main.cacc2e0f.css.map": "/Portfolio/static/css/main.cacc2e0f.css.map",
-    "main.0e0a536e.js.map": "/Portfolio/static/js/main.0e0a536e.js.map"
+    "main.35212ac3.css.map": "/Portfolio/static/css/main.35212ac3.css.map",
+    "main.88603178.js.map": "/Portfolio/static/js/main.88603178.js.map"
   },
   "entrypoints": [
-    "static/css/main.cacc2e0f.css",
-    "static/js/main.0e0a536e.js"
+    "static/css/main.35212ac3.css",
+    "static/js/main.88603178.js"
   ]
 }
