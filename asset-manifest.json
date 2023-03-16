@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.4816a5c2.css",
-    "main.js": "/Portfolio/static/js/main.1e4d2385.js",
+    "main.css": "/Portfolio/static/css/main.42776117.css",
+    "main.js": "/Portfolio/static/js/main.169c2708.js",
     "static/media/HeadFirst.webp": "/Portfolio/static/media/HeadFirst.60e3f06f6d2a4c12cd2d.webp",
     "static/media/Codevision.webp": "/Portfolio/static/media/Codevision.f0b78ba3cf9ad1d9a102.webp",
+    "static/media/Movies.webp": "/Portfolio/static/media/Movies.0a18f5bd79cb5c53850f.webp",
     "static/media/Sunkart.webp": "/Portfolio/static/media/Sunkart.1f7a4da77329537fd501.webp",
     "static/media/Ezio.webp": "/Portfolio/static/media/Ezio.fba088a3eb235005d408.webp",
     "static/media/Pricing.webp": "/Portfolio/static/media/Pricing.54e66a28497be7fc9dce.webp",
     "static/media/Help.webp": "/Portfolio/static/media/Help.399045c7fe357c2a40fe.webp",
     "static/media/Ivision.webp": "/Portfolio/static/media/Ivision.deab67643f1a0e0b973b.webp",
     "static/media/Delivery.webp": "/Portfolio/static/media/Delivery.1bf29d87d5291d7f9689.webp",
+    "static/media/Dash.webp": "/Portfolio/static/media/Dash.734f3d7316816a687ebe.webp",
     "static/media/Dashboard.webp": "/Portfolio/static/media/Dashboard.1722f31ea7c4bb0ee4ef.webp",
-    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.80d63645ec9cd6557fe8.pdf",
+    "static/media/Ecom.webp": "/Portfolio/static/media/Ecom.0b21c22fafe65eeec14d.webp",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.8559225883dba7b5c2ec.pdf",
     "index.html": "/Portfolio/index.html",
-    "main.4816a5c2.css.map": "/Portfolio/static/css/main.4816a5c2.css.map",
-    "main.1e4d2385.js.map": "/Portfolio/static/js/main.1e4d2385.js.map"
+    "main.42776117.css.map": "/Portfolio/static/css/main.42776117.css.map",
+    "main.169c2708.js.map": "/Portfolio/static/js/main.169c2708.js.map"
   },
   "entrypoints": [
-    "static/css/main.4816a5c2.css",
-    "static/js/main.1e4d2385.js"
+    "static/css/main.42776117.css",
+    "static/js/main.169c2708.js"
   ]
 }
